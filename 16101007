@@ -1,0 +1,11 @@
+/*
+ Aman Kurapa
+ 16101007
+*/
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"Hello World!";
+	return 0;
+}
